@@ -1,0 +1,24 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+body {
+    font-family: Arial, sans-serif;
+    color: #333;
+}
+
+class”nombreclase” 
+.seccion {
+    padding: 40px;
+}
+
+#inicio {
+    background-color: #f7f7f7;
+}
+	Selector descendente
+nav ul li a {
+    text-decoration: none;
+
+}
